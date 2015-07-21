@@ -1,0 +1,8 @@
+Google
+
+https://inkscape.org/en/learn/tutorials/
+
+http://wiki.inkscape.org/wiki/index.php/Tutorials_and_help
+
+LaTeX plugin
+http://pav.iki.fi/software/textext/
